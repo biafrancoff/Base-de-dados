@@ -1,3 +1,4 @@
+#Instalando pacotes
 install.packages("readxl")
 library(readxl)
 base_final <- read_excel("C:/Users/scrw/Downloads/base_final.xlsx")
